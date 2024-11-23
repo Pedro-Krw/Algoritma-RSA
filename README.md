@@ -24,6 +24,7 @@
 ## ✍️ Kontributor
 ### Tugas ini dikerjakan oleh:
 - **Pedro**  
+- **05111940007003**  
   Codigan dan alur pemrograman dikembangkan sepenuhnya oleh Pedro. 
 
 ---
