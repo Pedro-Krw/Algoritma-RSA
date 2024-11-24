@@ -1,5 +1,5 @@
 
-# Tugas 3: Codigan dan Alur Pemrograman
+# Tugas 3 Codigan dan Alur Pemrograman
 
 ## 📋 Deskripsi Proyek
 ### Percakapan antara dua perangkat
